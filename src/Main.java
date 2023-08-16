@@ -8,7 +8,7 @@ public class Main {
         Animal z=new Animal();
         z.raj();
         System.out.println(z.ears);
-
+//wnswjksw
 
         }
     }
